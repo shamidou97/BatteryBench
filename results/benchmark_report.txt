@@ -1,0 +1,10 @@
+=================================================================
+BatteryBench — SOH Estimation Benchmark
+XJTU Battery Dataset · CNN vs LSTM vs Transformer
+Train: Batch-1 to 4 | Test: Batch-5 (RW protocol)
+=================================================================
+Model            ValRMSE   TestRMSE   TestMAE   TestR2     Params
+-----------------------------------------------------------------
+CNN               4.4916     5.6942    5.0391   0.0190     35,105
+LSTM              3.2785     5.1979    4.7094   0.1826     32,961
+Transformer       2.2291     2.6399    2.1643   0.7892     22,017

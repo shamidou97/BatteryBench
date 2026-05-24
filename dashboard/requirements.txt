@@ -1,0 +1,7 @@
+flask==2.3.2
+mysql-connector-python==8.0.33
+sqlalchemy==2.0.15
+numpy==1.23.5
+scipy==1.10.1
+pandas==1.5.3
+tensorflow-cpu==2.10.1

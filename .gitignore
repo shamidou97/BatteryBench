@@ -1,0 +1,9 @@
+data/Batch-*/
+data/cache/
+trainer/data/
+models/*.h5
+models/*.keras
+__pycache__/
+*.pyc
+*.pkl
+*.log
